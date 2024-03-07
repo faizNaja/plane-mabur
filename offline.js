@@ -1,0 +1,29 @@
+﻿{
+	"version": 1709775862,
+	"fileList": [
+		"data.js",
+		"c2runtime.js",
+		"jquery-3.4.1.min.js",
+		"offlineClient.js",
+		"images/spaceawlpaper-sheet0.png",
+		"images/player_shipremovebgpreview-sheet0.png",
+		"images/sprite-sheet0.png",
+		"images/sprite-sheet1.png",
+		"images/laserremovebgpreview-sheet0.png",
+		"images/downloadremovebgpreview-sheet0.png",
+		"images/particles.png",
+		"images/sprite2-sheet0.png",
+		"images/bardarah-sheet0.png",
+		"images/bardarah2-sheet0.png",
+		"images/lose-sheet0.png",
+		"images/win-sheet0.png",
+		"images/bgfaiszz-sheet0.png",
+		"images/explotionexplode-sheet0.png",
+		"icon-16.png",
+		"icon-32.png",
+		"icon-114.png",
+		"icon-128.png",
+		"icon-256.png",
+		"loading-logo.png"
+	]
+}
